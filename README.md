@@ -1,9 +1,9 @@
-# Plates Co - Softoo Shopping Cart!
+# Softoo Shopping Cart!
 ## About the Project:
 
 This is test project to show dummy products from an API. Products are listed and can be filtered by colour attribute. You can add product to the shopping cart and can see your cart. You can plus or minus any product from the cart and can see the total.
 
-[image](https://user-images.githubusercontent.com/44589622/187892804-84f0aeb1-5429-4a15-9bdb-ec5e2ea965ab.png)
+[Demo](https://user-images.githubusercontent.com/44589622/187892804-84f0aeb1-5429-4a15-9bdb-ec5e2ea965ab.png)
 
 
 ## Live demo
