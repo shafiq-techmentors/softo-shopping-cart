@@ -13,7 +13,7 @@ http://softo.shafiqdeveloper.info
 ## Installations
 
 Step-1: Clone the Repo.
-open terminal and hit: git clone https://github.com/shafiq-techmentors/softo-test.git
+open terminal and hit: git clone https://github.com/shafiq-techmentors/softo-shopping-cart
 
 ## Step-2: Install dependencies
 
